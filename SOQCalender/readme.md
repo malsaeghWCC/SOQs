@@ -25,7 +25,7 @@ It produces:
 
 ## 🧠 How It Works
 
-### 1️⃣ Data Extraction (`_Codetoextract.ipynb`)
+### Steps: Data Extraction (`_Codetoextract.ipynb`) > CalenderPDF
 - Reads the exported **BlueCourses.csv** file from the O drive:
 - Filters rows by semester (e.g. `"Spring/Summer 2025"`)
 - Groups by **Part Of Term**
@@ -33,9 +33,14 @@ It produces:
 - Course Start / End Dates  
 - SOQ (Evaluation) Start / End Dates  
 - Outputs a clean file: NEWSOQCalender.xlsx
+- Enter the dates to the word file "2025_fallDatesSOQs" note some of th POT survey start and end have the same dates which you will have to adjust that based on course start and end date (see screenshot)
+- Convert to PDF and upload to Googledrive
+- Update SOQ calender in Canvas faculty and dean hub and Fillout and SM email templates 
 
 ---
+POT that have the same survey start and end date need to be changed to the course start and end dates
 
 <img width="864" height="538" alt="image" src="https://github.com/user-attachments/assets/901c1e93-b5aa-432a-bb32-92e1b073fdd0" />
 
+---
 
