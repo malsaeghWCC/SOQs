@@ -36,5 +36,6 @@ It produces:
 
 ---
 
+<img width="864" height="538" alt="image" src="https://github.com/user-attachments/assets/901c1e93-b5aa-432a-bb32-92e1b073fdd0" />
 
 
