@@ -29,10 +29,6 @@ These templates are designed for automated emails sent via **Blue (Explorance)**
 - Visual row of icons for “Quick”, “Confidential”, and “We’re Listening” messages.  
 - Footer with WCC/WTMC contact info and logo.
 
-### 📸 Preview
-> Your voice helps improve the learning experience at WCC.  
-> Surveys close **June 27, 2025** — don’t miss the chance to share your feedback!
-
 ---
 
 ## 💙 2️⃣ Faculty & Dean SOQ Reminder Template
@@ -56,15 +52,12 @@ These templates are designed for automated emails sent via **Blue (Explorance)**
 - Contact section linking to `surveys@wccnet.edu`
 - Footer with WCC logo and contact info.
 
-### 📸 Preview
-> The Student Opinion Questionnaires (SOQs) for one or more of your courses are now open.  
-> Encourage students to participate and monitor your response rates through Blue.
 
 ---
 
 ## 🧱 File Locations
 
-Store both HTML templates in your email automation or Blue template directory:
+Store both HTML templates in Blue template emails:
 
 
 ---
