@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body { background-color:#F0F0F0; margin:0; padding:0; }
+</style>
+</head>
+<body>
+<table align="center" border="0" cellpadding="1" cellspacing="1" style="background-color:#FFFFFF; width:600px;">
+<tr>
+<td>
+
+<table align="center" border="0" cellpadding="0" cellspacing="48" style="background-color:#FFFFFF; width:500px;">
+<tr>
+<td style="text-align:center;"><a href="https://www.wccnet.edu/wtmc/" target="_blank"><img alt="WCC Logo" src="https://www.wccnet.edu/_media/wtmc.png  " style="height:140px; width:150px;"></a></td>
+</tr>
+</table>
+
+<table align="center" border="0" cellpadding="16" cellspacing="0" dir="ltr" style="background-color:#06436f; width:500px;">
+    <tr>
+        <td style="text-align:center; font-family:arial,helvetica,sans-serif; font-size:16px; font-weight:bold; color:#FFFFFF;">[R$FN], your voice matters!</td>
+        </tr>
+        </table>
+        
+        <table align="center" border="0" cellpadding="0" cellspacing="0" dir="ltr" style="background-color:#FFFFFF; width:500px;">
+        <tr>
+        <td style="padding: 48px 24px 24px 24px; font-family:arial,helvetica,sans-serif; font-size:14px; color:#000000;">
+        Hello, [R$FN].<br /><br />
+        We invite you to take a moment to evaluate your courses and instructors. Your insights play a crucial role in enhancing the learning experience, and your feedback matters.<br /><br />
+        <b>Surveys end on June 27th 2025.</b><br /><br />
+        </td>
+        </tr>
+        </table>
+        
+        
+
+
+<!/-- COURSE TABLE -->
+
+<div style="background-color:transparent;">
+    <div style="min-width:320px; max-width:500px; margin:0 auto; background-color:transparent;">
+      <div style="border-collapse:collapse; display:table; width:100%; background-color:transparent;">
+        <div style="display:table-cell; vertical-align:top; width:500px;">
+          <div style="padding:5px 0;">
+            <div style="text-align:center; padding:10px;">
+              $($
+              <div style="display:inline-block; color:#ffffff; background-color:#f6ba41; border-radius:5px; border:1px solid #0b4e0b; padding:5px 20px; font-family:Arial, sans-serif; font-size:16px; text-align:center; text-decoration:none;">
+                <span style="font-size:16px; line-height:2; display:inline-block;">Click here to evaluate</span>
+              </div>
+              $)$
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <table align="center" border="0" cellpadding="0" cellspacing="0" dir="ltr" style="background-color:#FFFFFF; width:500px;">
+    <tr>
+
+<!-– CTA LINK 1 -->
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="width:500px;">
+  <tr>
+    <td style="text-align:center; padding: 12px; width:32.5%;">
+      <img alt="Lightning Bolt Icon" src="https://www.wccnet.edu/_media/lightning-bolt.png" style="height:100px; width:100px;">
+    </td>
+    <td style="width:1.25%; background-color:#06436f;">&nbsp;</td>
+    <td style="text-align:center; padding: 12px; width:32.5%;">
+      <img alt="Confidential File Icon" src="https://www.wccnet.edu/_media/locked-page.png" style="height:100px; width:100px;">
+    </td>
+    <td style="width:1.25%; background-color:#06436f;">&nbsp;</td>
+    <td style="text-align:center; padding: 12px; width:32.5%;">
+      <img alt="Speech Bubble Icon" src="https://www.wccnet.edu/_media/speech-bubble.png      " style="height:100px; width:100px;">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center; padding: 12px 0; width:32.5%; font-family:arial,helvetica,sans-serif; font-size:14px; font-weight:bold;">It&#39;s quick.</td>
+    <td style="width:1.25%; background-color:#06436f;">&nbsp;</td>
+    <td style="text-align:center; padding: 12px 0; width:32.5%; font-family:arial,helvetica,sans-serif; font-size:14px; font-weight:bold;">It&#39;s confidential.</td>
+    <td style="width:1.25%; background-color:#06436f;">&nbsp;</td>
+    <td style="text-align:center; padding: 12px 0; width:32.5%; font-family:arial,helvetica,sans-serif; font-size:14px; font-weight:bold;">We&#39;re listening.</td>
+  </tr>
+  <tr>
+    <td style="text-align:center; padding: 12px 12px 24px 12px; width:32.5%; font-family:arial,helvetica,sans-serif; font-size:11px;">Complete your course evaluations on campus, at home, or on the go! The online evaluation system is easy to use and mobile-friendly.</td>
+    <td style="width:1.25%; background-color:#06436f;">&nbsp;</td>
+    <td style="text-align:center; padding: 12px 12px 24px 12px; width:32.5%; font-family:arial,helvetica,sans-serif; font-size:11px;">Your responses are completely confidential. Additionally, instructors can only view their anonymized evaluations after all grades are finalized.</td>
+    <td style="width:1.25%; background-color:#06436f;">&nbsp;</td>
+    <td style="text-align:center; padding: 12px 12px 24px 12px; width:32.5%; font-family:arial,helvetica,sans-serif; font-size:11px;">Your feedback directly informs WTMC course offerings and course content.</td>
+  </tr>
+</table>
+
+
+
+
+
+
+<table align="center" border="0" cellpadding="1" cellspacing="1"
+style="background-color:#FFFFFF; width:500px;">
+<tr>
+<td style="text-align: left; padding: 12px 0px 2px 24px;
+font-family:arial,helvetica,sans-serif; font-size:14px;
+font-weight:bold;">Questions?</td>
+<td style="text-align: center; width:30px;"></td>
+<td style="width:150px;"></td>
+<tr>
+<td style="text-align: left; padding: 2px 0px 12px 24px;
+font-family:arial,helvetica,sans-serif; font-size:14px;">Contact us at <a
+href="mailto:Surveys@wccnet.edu?Subject=Course%20Evaluations%20Inquiry"
+target="_top">surveys@wccnet.edu</a>.</td>
+<td>&nbsp;</td>
+<td style="width:150px;"></td>
+</tr>
+</table>
+<!/-- QUESTIONS -->
+<table align="center" border="0" cellpadding="1" cellspacing="1"
+style="background-color:#FFFFFF; width:500px;">
+<tr>
+<td style="text-align:left; padding: 0px 24px 48px 24px;
+font-family:arial,helvetica,sans-serif; font-size:14px; color:#000000;">Thank you for taking the time to share your experiences.<br
+/>
+<br />
+WCC Student Opinion Questionnaire Team<br />
+Washtenaw Community College</td>
+</tr>
+</table>
+<!/-- SIGNATURE -->
+<table align="center" border="0" cellpadding="20" cellspacing="0" style="background-color:#06436f; width:500px;">
+<tr>
+<td style="text-align:center; font-family:arial,helvetica,sans-serif; font-size:12px; color:#FFFFFF;">&copy; Washtenaw Technical Middle College</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
